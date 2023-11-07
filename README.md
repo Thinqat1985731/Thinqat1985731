@@ -10,7 +10,7 @@
 </p>
 
 <p align="right"><sub>
-  Provided by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
+  Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
 </sub></p>
 
 ## Blog posts
@@ -18,7 +18,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><sub>
-  Provided by <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a>
+  Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a>
 </sub></p>
 
 
