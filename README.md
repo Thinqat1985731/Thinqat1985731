@@ -5,10 +5,12 @@
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731&theme=nord_dark"
       media="(prefers-color-scheme: dark)"
+      height="160px"
     />
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731&theme=nord_bright"
       media="(prefers-color-scheme: light)"
+      height="160px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" />
   </picture>
@@ -16,12 +18,30 @@
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_dark&utcOffset=9"
       media="(prefers-color-scheme: dark)"
+      height="160px"
     />
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_bright&utcOffset=9"
       media="(prefers-color-scheme: light)"
+      height="160px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" />
+  </picture>
+</p>
+
+<p align="left"> 
+  <picture>
+    <source
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_dark"
+      media="(prefers-color-scheme: dark)"
+      height="160px"
+    />
+    <source
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_bright"
+      media="(prefers-color-scheme: light)"
+      height="160px"
+    />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" />
   </picture>
 </p>
 
