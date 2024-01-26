@@ -46,7 +46,7 @@
 </p>
 
 > [!NOTE]
-> If the theme (light/dark) of my profile cards doesnt match the one on GitHub, please reload it.
+> If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
 
 <p align="right"><sub>
   Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
