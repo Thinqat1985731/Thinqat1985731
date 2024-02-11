@@ -10,11 +10,9 @@
   <br>
 </p>
 
-<p align="center">
-  <h2 align="center">Basic Information</h2>
-</p>
+### Basic Information
 
-<p align="left">
+<p align="center">
   <picture>
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731&theme=nord_dark"
@@ -43,7 +41,7 @@
   </picture>
 </p>
 
-<p align="left">
+<p align="center">
   <picture>
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_dark"
@@ -65,9 +63,7 @@
   Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
 </sub></p>
 
-<p align="center">
-  <h2 align="center">Blog posts</h2>
-</p>
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
