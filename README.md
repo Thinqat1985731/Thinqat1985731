@@ -5,10 +5,12 @@
   <i>
       A certain university student (B3)<br>My account name is pronounced like "shinquat".<br>
   </i><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Thinqat1985731.Thinqat1985731" alt="counter"/>
-  <br>
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=Thinqat1985731&style=for-the-badge" alt="counter" height="30px"/>
 </p>
+
+<p align="right"><sub>
+  Powered by <a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a>
+</sub></p>
 
 ### Basic Information
 
