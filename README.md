@@ -1,16 +1,12 @@
-<h1 align="center">Hi, everyone!👋</h1>
+<h1 align="center">Hi, everyone!</h1>
 
 <p align="center">
+  <img src="_ff844f66-a513-4e89-a602-fab45fc94c19_.png" alt="image" height="200px"/><br><br>
   <b>I'm Thinqat (Thinqat1985731).</b><br><br>
   <i>
       A certain university student (B3)<br>My account name is pronounced like "shinquat".<br>
   </i><br>
-  <img src="https://komarev.com/ghpvc/?username=Thinqat1985731&style=for-the-badge" alt="counter" height="30px"/>
 </p>
-
-<p align="right"><sub>
-  Powered by <a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a>
-</sub></p>
 
 ### Basic Information
 
@@ -59,7 +55,9 @@
   </picture>
 </p>
 
-> If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
+<p align="center"><sub>
+*If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
+</sub></p>
 
 <p align="right"><sub>
   Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
