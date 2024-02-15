@@ -44,12 +44,12 @@
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_dark"
       media="(prefers-color-scheme: dark)"
-      height="150px"
+      height="155px"
     />
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_bright"
       media="(prefers-color-scheme: light)"
-      height="150px"
+      height="155px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
