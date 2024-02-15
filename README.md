@@ -1,7 +1,7 @@
 <h1 align="center">Hi, everyone!</h1>
 
 <p align="center">
-  <img src="_ff844f66-a513-4e89-a602-fab45fc94c19_.png" alt="image" height="200px"/><br><br>
+  <img src="./_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="image" height="200px"/><br><br>
   <b>I'm Thinqat (Thinqat1985731).</b><br><br>
   <i>
       A certain university student (B3)<br>My account name is pronounced like "shinquat".<br>
@@ -44,12 +44,12 @@
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_dark"
       media="(prefers-color-scheme: dark)"
-      height="160px"
+      height="150px"
     />
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_bright"
       media="(prefers-color-scheme: light)"
-      height="160px"
+      height="150px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
