@@ -26,7 +26,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Hugging_Face-000000.svg?style=for-the-badge&logo=github"
+        srcset="https://img.shields.io/badge/Hugging_Face-000000.svg?style=for-the-badge"
         media="(prefers-color-scheme: light)"
       />
       <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge" alt="Hugging Face"/>
