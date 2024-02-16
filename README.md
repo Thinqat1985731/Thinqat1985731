@@ -1,11 +1,50 @@
 <h1 align="center">Hi, everyone!</h1>
 
 <p align="center">
-  <img src="./_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="image" height="200px"/><br><br>
+  <img src="./_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="Picture" height="200px"/><br><br>
   <b>I'm Thinqat (Thinqat1985731).</b><br><br>
   <i>
       A certain university student (B3)<br>My account name is pronounced like "shinquat".<br>
   </i><br>
+  <a href="https://github.com/Thinqat1985731" target="_blank">
+  <picture>
+    <source
+      srcset="https://img.shields.io/badge/GitHub-444444.svg?style=for-the-badge&logo=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://img.shields.io/badge/-Github-444444.svg?style=for-the-badge&logo=github" alt="Github"/>
+  </picture>
+  </a>
+  <a href="https://huggingface.co/Thinqat1985731" target="_blank">
+    <picture>
+      <source
+        srcset="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://img.shields.io/badge/Hugging_Face-000000.svg?style=for-the-badge&logo=github"
+        media="(prefers-color-scheme: light)"
+      />
+      <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge" alt="Hugging Face"/>
+    </picture>
+  </a>
+  <a href="https://thinqat1985731.github.io/myblog/" target="_blank">
+  <picture>
+    <source
+      srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://img.shields.io/badge/Myblog-000000.svg?style=for-the-badge&logo=jekyll"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll" alt="Myblog"/>
+  </picture>
+  </a>
 </p>
 
 ### Basic Information
