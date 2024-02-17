@@ -105,9 +105,6 @@
 
 ## Recent Activity
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 17th, 2024, 2:49:52 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 ・Pushed 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
@@ -118,7 +115,13 @@ Last Updated: Saturday, February 17th, 2024, 2:49:52 PM
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
-  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
+  （
+  <!--RECENT_ACTIVITY:last_update-->
+  Last Updated: Saturday, February 17th, 2024, 2:49:52 PM
+  <!--RECENT_ACTIVITY:last_update_end-->
+  ）<br>
+  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a><br>
+
 </sub></p>
 
 ## Recent blog posts

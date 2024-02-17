@@ -5,7 +5,7 @@ settings:
     timezone: "GMT+09:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  line_prefix: "・"
+  line_prefix: "- "
 
 messages:
   comments: "Commented on {ID} in {REPO}"
