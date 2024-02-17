@@ -19,3 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: "recent-activity.yml"
+        settings:
+          commit_msg: "update: readme.md by recent activity"
+          date.timezone: +09:00
+          disabled_events: [star]
