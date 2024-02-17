@@ -119,11 +119,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)（{DATE}）<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)（{DATE}）<br>
-- Star : [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)（{DATE}）<br>
-- Star : [microsoft/WSL](https://github.com/microsoft/WSL)（{DATE}）<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)（{DATE}）<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Star : [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
+- Star : [microsoft/WSL](https://github.com/microsoft/WSL)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
