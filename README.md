@@ -46,8 +46,9 @@
   </picture>
   </a>
 </p>
+<br>
 
-### Basic Information
+## Basic Information
 
 <p align="center">
   <picture>
@@ -102,7 +103,19 @@
   Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
 </sub></p>
 
-### Blog posts
+## Recent Activity
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<p align="right"><sub>
+  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
+</sub></p>
+
+## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
