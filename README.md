@@ -1,4 +1,4 @@
-<h1 align="center">Hi, everyone!</h1>
+<h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /></h1>
 
 <p align="center">
   <img src="./_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="Picture" height="200px"/><br><br>
@@ -46,9 +46,8 @@
   </picture>
   </a>
 </p>
-<br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Basic Information
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Basic Information
 
 <p align="center">
   <picture>
@@ -106,26 +105,18 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Pushed 3 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 - Pushed 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Pushed 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Pushed 4 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Pushed 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
-<<<<<<< HEAD
-=======
-  （
-  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 17th, 2024, 10:07:10 PM
-  <!--RECENT_ACTIVITY:last_update_end-->
-  ）<br>
->>>>>>> 63ac6b5b49c534b62f994e2b3d6654610467a9e8
   Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a><br>
 </sub></p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="25" height="25" /> Recent blog posts
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
