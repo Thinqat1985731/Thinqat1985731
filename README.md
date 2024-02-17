@@ -1,26 +1,22 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /></h1>
 
 <p align="center">
-  <img src="./_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="Picture" height="200px"/><br>
-</p>
-
-<p align="center">
+  <img src="./_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="Picture" height="200px"/>
+  <br>
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=I'm+Thinqat+(Thinqat1985731)."
+      srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=I'm+Thinqat+(Thinqat1985731)."
       alt="Typing SVG"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=I'm+Thinqat+(Thinqat1985731)."
+      srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=I'm+Thinqat+(Thinqat1985731)."
       alt="Typing SVG"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&random=false&width=435&lines=I'm+Thinqat+(Thinqat1985731)."  alt="Github"/>
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=I'm+Thinqat+(Thinqat1985731)."  alt="Github"/>
   </picture>
-</p>
-
-<p align="center">
+  <br>
   <i>
       A certain university student (B3)<br>My account name is pronounced like "shinquat".<br>
   </i><br>
@@ -131,7 +127,8 @@
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
-  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a><br>
+  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity
+</a><br>
 </sub></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Recent Blog Posts
@@ -141,5 +138,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><sub>
-  Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a>
+  Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog post workflow</a>
 </sub></p>
