@@ -119,11 +119,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Star : [google/magika](https://github.com/google/magika)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Star : [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
 - Star : [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)<br>
-- Star : [sienori/simple-translate](https://github.com/sienori/simple-translate)<br>
-- Star : [gorhill/uBlock](https://github.com/gorhill/uBlock)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
