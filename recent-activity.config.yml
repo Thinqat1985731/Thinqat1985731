@@ -2,6 +2,7 @@ settings:
   commit_msg: "update: readme.md by recent activity"
   url_text: "{REPO}{ID}"
   line_prefix: "- "
+  disabled_events: [star]
 
 messages:
   comments: "Comment : {ID} in {REPO}"
