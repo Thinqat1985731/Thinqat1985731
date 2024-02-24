@@ -112,11 +112,17 @@
 *If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
 </sub></p>
 
-<p align="right"><sub>
+<p align="right">
+  <sub>
   Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
-</sub></p>
+  </sub>
+</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity　<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&label=recent-activity&color=%230a70b4">
+
+<p align="right">
+  
+</p>
 
 <!--RECENT_ACTIVITY:start-->
 - Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
@@ -127,16 +133,17 @@
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
-  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity
-</a><br>
-</sub></p>
+  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a></sub>
+</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Recent Blog Posts
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Recent Blog Posts　<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&label=blog-post-workflow&color=%230a70b4">
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="right"><sub>
+<p align="right">
+<sub>
   Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog post workflow</a>
-</sub></p>
+</sub>
+</p>
