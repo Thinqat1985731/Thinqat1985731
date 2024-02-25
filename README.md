@@ -120,7 +120,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Workflow Information</h2>
 
-<div align="center">
+<p align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -170,4 +170,4 @@
 </td>
 </tr>
 </table>
-</div>
+</p>
