@@ -120,7 +120,6 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Workflow Information</h2>
 
-<p align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -130,13 +129,18 @@
 <!--RECENT_ACTIVITY:start-->
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
-</td>
+<div align="right">
+  <sub>
+  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
+  </sub>
+</div>
 
+</td>
 <td width="50%" valign="top">
 
 <h3>Blog Posts</h3>
