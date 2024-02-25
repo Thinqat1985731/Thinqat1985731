@@ -1,6 +1,6 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /></h1>
 
-<p align="center">
+<div align="center">
   <img src="./images/_11372f61-594d-4aca-8b7f-268e8b4cee96_.png" alt="Picture" height="200px"/>
   <br>
   <picture>
@@ -59,11 +59,11 @@
     <img src="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll" alt="Myblog"/>
   </picture>
   </a>
-</p>
+</div>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Basic Information </h2>
 
-<p align="center">
+<div align="center">
   <picture>
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731&theme=nord_dark"
@@ -90,9 +90,9 @@
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" alt="productive time"/>
   </picture>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <picture>
     <source
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_dark"
@@ -106,17 +106,17 @@
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
-</p>
+</div>
 
-<p align="center"><sub>
+<div align="center"><sub>
 *If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
-</sub></p>
+</sub></div>
 
-<p align="right">
+<div align="right">
   <sub>
   Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
   </sub>
-</p>
+</div>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Workflow Information</h2>
 
