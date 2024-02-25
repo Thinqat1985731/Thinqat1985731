@@ -128,10 +128,10 @@
 <h3>Activities</h3>
 
 <!--RECENT_ACTIVITY:start-->
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
