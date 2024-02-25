@@ -134,9 +134,11 @@
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
-<p align="right"><sub>
-  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a></sub>
-</p>
+<div align="right">
+  <sub>
+  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
+  </sub>
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -147,21 +149,22 @@
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="right">
-<sub>
+<div align="right">
+  <sub>
   Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog post workflow</a>
-</sub>
-</p>
-
-<p align="center">
+  </sub>
+</div>
 
 <h3>Build Status</h3>
+
+<div align="center">
 
 | Workflow Name    | Status      |
 | ----------- |:-----------:|
 | [Recent-activity](./.github/workflows/recent-activity.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&color=%230a70b4)|
 | [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
-</p>
+
+</div>
 
 </td>
 </tr>
