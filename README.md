@@ -118,20 +118,20 @@
   </sub>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Information
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Workflow Information
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Activity
+### Activities
 
 <!--RECENT_ACTIVITY:start-->
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="right"><sub>
@@ -155,13 +155,12 @@
 
 <p align="center">
 
-### Workflow Status
+### Build Status
 
 | Workflow Name    | Status      |
 | ----------- |:-----------:|
 | [Recent-activity](./.github/workflows/recent-activity.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&color=%230a70b4)|
 | [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
-
 </p>
 
 </td>
