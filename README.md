@@ -135,13 +135,8 @@
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
-<div align="right">
-  <sub>
-  Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
-  </sub>
-</div>
-
 </td>
+
 <td width="50%" valign="top">
 
 <h3>Blog Posts</h3>
@@ -149,12 +144,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
 <!-- BLOG-POST-LIST:END -->
-
-<div align="right">
-  <sub>
-  Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog post workflow</a>
-  </sub>
-</div>
 
 <h3>Build Status</h3>
 
@@ -170,4 +159,3 @@
 </td>
 </tr>
 </table>
-</p>
