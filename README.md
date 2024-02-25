@@ -118,9 +118,7 @@
   </sub>
 </div>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Workflow Information</h2>
-
-<h3>Activities</h3>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
@@ -135,7 +133,8 @@
   Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
   </sub>
 </div>
-<h3>Blog Posts</h3>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Latest Blog Posts
+</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
