@@ -61,7 +61,7 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Basic Information
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Basic Information 
 
 <p align="center">
   <picture>
@@ -118,11 +118,13 @@
   </sub>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity　<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&label=recent-activity&color=%230a70b4">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Information
 
-<p align="right">
-  
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Activity
 
 <!--RECENT_ACTIVITY:start-->
 - Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
@@ -136,7 +138,10 @@
   Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a></sub>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Recent Blog Posts　<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&label=blog-post-workflow&color=%230a70b4">
+</td>
+<td width="50%" valign="top">
+
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
@@ -147,3 +152,18 @@
   Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog post workflow</a>
 </sub>
 </p>
+
+<p align="center">
+
+### Workflow Status
+
+| Workflow Name    | Status      |
+| ----------- |:-----------:|
+| [Recent-activity](./.github/workflows/recent-activity.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&color=%230a70b4)|
+| [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
+
+</p>
+
+</td>
+</tr>
+</table>
