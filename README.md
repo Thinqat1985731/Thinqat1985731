@@ -120,17 +120,13 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Workflow Information</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <h3>Activities</h3>
 
 <!--RECENT_ACTIVITY:start-->
-- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
-- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
-- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
@@ -139,15 +135,17 @@
   Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
   </sub>
 </div>
-
-</td>
-<td width="50%" valign="top">
-
 <h3>Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="right">
+  <sub>
+  Powered by <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog post workflow</a>
+  </sub>
+</div>
 
 <h3>Build Status</h3>
 
@@ -159,7 +157,3 @@
 | [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
 
 </div>
-
-</td>
-</tr>
-</table>
