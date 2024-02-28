@@ -1,2 +1,3 @@
-*.md linguist-detectable=true
-*.yml linguist-detectable=true
+* linguist-vendored=true
+*.nd linguist-vendored=false
+*.yml linguist-vendored=false
