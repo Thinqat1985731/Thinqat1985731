@@ -122,10 +122,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Pull-request-test](https://github.com/Thinqat1985731/Pull-request-test)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
-- Merge : PR [#2](https://github.com/Thinqat1985731/myblog/pull/2) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
