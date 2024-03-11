@@ -79,30 +79,30 @@
   </picture>
   <picture>
     <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thinqat1985731&theme=nord_dark
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_dark
       media="(prefers-color-scheme: dark)"
       height="160px"
     />
     <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thinqat1985731&theme=nord_bright"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_bright"
       media="(prefers-color-scheme: light)"
       height="160px"
     />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" alt="Top language by repo"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" alt="Productive time"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=2e3440&color=FFFFFF&line=8fbcbb&point=8fbcbb"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=2e3440&color=ffffff&title_color=ffffff&line=8fbcbb&point=8fbcbb&radius=10"
       media="(prefers-color-scheme: dark)"
-      height="180px"
+      height="200px"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=eceff4&color=FFFFFF&line=8fbcbb&point=8fbcbb"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=eceff4&color=000000&title_color=000000&line=8fbcbb&point=8fbcbb&radius=10"
       media="(prefers-color-scheme: light)"
-      height="180px"
+      height="200px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
