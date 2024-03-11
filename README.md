@@ -97,12 +97,12 @@
     <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=2e3440&color=ffffff&title_color=ffffff&line=8fbcbb&point=8fbcbb&radius=10"
       media="(prefers-color-scheme: dark)"
-      height="200px"
+      height="187px"
     />
     <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=eceff4&color=000000&title_color=000000&line=8fbcbb&point=8fbcbb&radius=10"
       media="(prefers-color-scheme: light)"
-      height="200px"
+      height="187px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
