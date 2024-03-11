@@ -1,7 +1,7 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /></h1>
 
 <div align="center">
-  <img src="./images/_788dbcc8-e252-49f6-ada2-25f46350ee89.jpg" alt="Picture" height="250px"/>
+  <img src="./images/_788dbcc8-e252-49f6-ada2-25f46350ee89_.jpg" alt="Picture" height="200px"/>
   <br>
   <picture>
     <source
