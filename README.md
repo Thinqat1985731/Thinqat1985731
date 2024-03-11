@@ -79,30 +79,30 @@
   </picture>
   <picture>
     <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_dark&utcOffset=9"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thinqat1985731&theme=nord_dark
       media="(prefers-color-scheme: dark)"
       height="160px"
     />
     <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_bright&utcOffset=9"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thinqat1985731&theme=nord_bright"
       media="(prefers-color-scheme: light)"
       height="160px"
     />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" alt="productive time"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thinqat1985731" alt="Top language by repo"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&theme=react"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=2e3440&color=FFFFFF&line=8fbcbb&point=8fbcbb"
       media="(prefers-color-scheme: dark)"
-      height="155px"
+      height="180px"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&theme=minimal"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=eceff4&color=FFFFFF&line=8fbcbb&point=8fbcbb"
       media="(prefers-color-scheme: light)"
-      height="155px"
+      height="180px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
