@@ -79,7 +79,7 @@
   </picture>
   <picture>
     <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_dark
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thinqat1985731&theme=nord_dark"
       media="(prefers-color-scheme: dark)"
       height="160px"
     />
