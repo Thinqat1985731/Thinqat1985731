@@ -95,14 +95,14 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=2e3440&color=ffffff&title_color=ffffff&line=8fbcbb&point=8fbcbb&radius=10"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_dark"
       media="(prefers-color-scheme: dark)"
-      height="187px"
+      height="155px"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=eceff4&color=000000&title_color=000000&line=8fbcbb&point=8fbcbb&radius=10"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9&theme=nord_bright"
       media="(prefers-color-scheme: light)"
-      height="187px"
+      height="155px"
     />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
   </picture>
@@ -114,18 +114,48 @@
 
 <div align="right">
   <sub>
-  Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a> / <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Github Readme Activity Graph</a>
+  Powered by <a href="https://github-profile-summary-cards.vercel.app/demo.html">GitHub Profile Summary Cards</a>
   </sub>
 </div>
+
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> Contribution Graph </h2>
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=2e3440&color=ffffff&title_color=ffffff&line=8fbcbb&point=8fbcbb&radius=10&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+      height="187px"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Thinqat1985731&bg_color=eceff4&color=000000&title_color=000000&line=8fbcbb&point=8fbcbb&radius=10&hide_border=true"
+      media="(prefers-color-scheme: light)"
+      height="187px"
+    />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinqat1985731&utcOffset=9" alt="profile details"/>
+  </picture>
+</div>
+
+
+<div align="center"><sub>
+*If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
+</sub></div>
+
+<div align="right">
+  <sub>
+  Powered by <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Github Readme Activity Graph</a>
+  </sub>
+</div>
+
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Pull-request-test](https://github.com/Thinqat1985731/Pull-request-test)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
+- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
