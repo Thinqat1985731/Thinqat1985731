@@ -153,7 +153,7 @@
 <!--RECENT_ACTIVITY:start-->
 - Create : new repository [Thinqat1985731/Dotfiles](https://github.com/Thinqat1985731/Dotfiles)<br>
 - Create : new repository [Thinqat1985731/Dotfiles](https://github.com/Thinqat1985731/Dotfiles)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
+- Create : new repository [Thinqat1985731/Dotfiles](https://github.com/Thinqat1985731/Dotfiles)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
