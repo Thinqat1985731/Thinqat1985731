@@ -155,7 +155,7 @@
 - Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
 - Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
 - Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Hydra-test](https://github.com/Thinqat1985731/Hydra-test)<br>
+- Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
