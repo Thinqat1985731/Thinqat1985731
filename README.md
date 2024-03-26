@@ -18,8 +18,10 @@
   </picture>
   <br>
   <i>
-      A certain university student (B3)<br>My account name is pronounced like "shinquat".<br>
-  </i><br>
+      A certain university student (B4)<br>
+      My account name is pronounced like "shinquat".<br>
+  </i>
+  <br>
   <a href="https://github.com/Thinqat1985731" target="_blank">
   <picture>
     <source
@@ -136,7 +138,6 @@
   </picture>
 </div>
 
-
 <div align="center"><sub>
 *If the theme (light/dark) of my profile cards doesn't match the one on GitHub, please reload it.
 </sub></div>
@@ -146,7 +147,6 @@
   Powered by <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Github Readme Activity Graph</a>
   </sub>
 </div>
-
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Activities</h2>
 
