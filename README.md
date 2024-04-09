@@ -48,7 +48,6 @@
       <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge" alt="Hugging Face"/>
     </picture>
   </a>
-  <a href="https://thinqat1985731.github.io/myblog/" target="_blank">
   <picture>
     <source
       srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll"
@@ -62,6 +61,10 @@
   </picture>
   </a>
 </div>
+
+<div align="center"><sub>
+* "MYBLOG" is under construction.
+</sub></div>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Basic Information </h2>
 
@@ -166,9 +169,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Latest Blog Posts
 </h2>
 
-<!-- BLOG-POST-LIST:START -->
-- [KaTeXのテスト](https://thinqat1985731.github.io/myblog/2023/10/24/KaTeX%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88.html)
-<!-- BLOG-POST-LIST:END -->
+(Under construction)
 
 <div align="right">
   <sub>
@@ -183,6 +184,6 @@
 | Workflow Name    | Status      |
 | ----------- |:-----------:|
 | [Recent-activity](./.github/workflows/recent-activity.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&color=%230a70b4)|
-| [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
+| [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | (Stoped)|
 
 </div>
