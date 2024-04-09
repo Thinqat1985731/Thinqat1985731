@@ -154,11 +154,11 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
+- Create : new repository [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Push : 3 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 - Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Merge : PR [#4](https://github.com/Thinqat1985731/myblog/pull/4) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Create : new repository [Thinqat1985731/bokeh-test](https://github.com/Thinqat1985731/bokeh-test)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Minimum-pdf-tools](https://github.com/Thinqat1985731/Minimum-pdf-tools)<br>
-- Push : 1 commit(s) to [Thinqat1985731/Thinqat1985731](https://github.com/Thinqat1985731/Thinqat1985731)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
