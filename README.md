@@ -48,8 +48,8 @@
       <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge" alt="Hugging Face"/>
     </picture>
   </a>
-  <picture>
-    <a href="https://thinqat-blog.vercel.app/" target="_blank">
+  <a href="https://thinqat-blog.vercel.app/" target="_blank">
+    <picture>
     <source
       srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=nextdotjs"
       media="(prefers-color-scheme: dark)"
@@ -185,6 +185,4 @@
 | [Recent-activity](./.github/workflows/recent-activity.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&color=%230a70b4)|
 | [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
 
-
 </div>
-
