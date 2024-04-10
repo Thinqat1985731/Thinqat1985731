@@ -167,7 +167,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Pages](/posts/pages)
+- [Next.js Pages](https://thinqat-blog.vercel.app/posts/pages)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
