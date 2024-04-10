@@ -49,22 +49,19 @@
     </picture>
   </a>
   <picture>
+    <a href="https://thinqat-blog.vercel.app/" target="_blank">
     <source
-      srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll"
+      srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=nextdotjs"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://img.shields.io/badge/Myblog-000000.svg?style=for-the-badge&logo=jekyll"
+      srcset="https://img.shields.io/badge/Myblog-000000.svg?style=for-the-badge&logo=nextdotjs"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll" alt="Myblog"/>
+    <img src="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=nextdotjs" alt="Myblog"/>
   </picture>
   </a>
 </div>
-
-<div align="center"><sub>
-* "MYBLOG" is under construction.
-</sub></div>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Basic Information </h2>
 
