@@ -167,6 +167,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Pages](/posts/pages)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
