@@ -156,9 +156,9 @@
 <!--RECENT_ACTIVITY:start-->
 - Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Create : new repository [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Create : new repository [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
