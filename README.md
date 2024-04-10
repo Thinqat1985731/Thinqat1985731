@@ -169,7 +169,8 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Latest Blog Posts
 </h2>
 
-(Under construction)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
   <sub>
@@ -184,6 +185,8 @@
 | Workflow Name    | Status      |
 | ----------- |:-----------:|
 | [Recent-activity](./.github/workflows/recent-activity.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/recent-activity.yml?style=flat-square&color=%230a70b4)|
-| [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | (Stoped)|
+| [blog-post-workflow](./.github/workflows/blog-post-workflow.yml) | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thinqat1985731/Thinqat1985731/blog-post-workflow.yml?style=flat-square&color=%230a70b4)|
+
 
 </div>
+
