@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge" alt="Hugging Face"/>
     </picture>
   </a>
-  <a href="https://thinqat-blog.vercel.app/" target="_blank">
+  <a href="https://thinqat.vercel.app/" target="_blank">
     <picture>
     <source
       srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=nextdotjs"
