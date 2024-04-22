@@ -167,7 +167,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [KaTeXのテスト](https://thinqat-blog.vercel.app/posts/katex_test)
+- [KaTeXのテスト](https://thinqat-blog.vercel.app/posts/katex)
 - [Next.js Pages](https://thinqat-blog.vercel.app/posts/pages)
 <!-- BLOG-POST-LIST:END -->
 
