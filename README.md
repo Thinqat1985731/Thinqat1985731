@@ -167,9 +167,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [KaTeX&#39;s Test](https://thinqat-blog.vercel.app/posts/katex)
-- [Markdown Examples](https://thinqat-blog.vercel.app/posts/markdown)
-- [Next.js Pages](https://thinqat-blog.vercel.app/posts/pages)
+- [KaTeX&#39;s Test](https://thinqat.vercel.app/posts/katex)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
