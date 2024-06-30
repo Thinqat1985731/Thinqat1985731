@@ -154,8 +154,8 @@
 - Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
 - Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
 - Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
-- Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Merge : PR [#22](https://github.com/Thinqat1985731/myblog/pull/22) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
+- Push : 1 commit(s) to [Thinqat1985731/hydra-test](https://github.com/Thinqat1985731/hydra-test)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
