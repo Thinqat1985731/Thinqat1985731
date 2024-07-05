@@ -38,14 +38,14 @@
   <a href="https://huggingface.co/Thinqat1985731" target="_blank">
     <picture>
       <source
-        srcset="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge"
+        srcset="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge&logo=huggingface&logoColor=white"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Hugging_Face-000000.svg?style=for-the-badge"
+        srcset="https://img.shields.io/badge/Hugging_Face-000000.svg?style=for-the-badge&logo=huggingface&logoColor=white"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
     </picture>
   </a>
   <a href="https://thinqat.vercel.app/" target="_blank">
