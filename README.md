@@ -152,9 +152,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 - Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Merge : PR [#81](https://github.com/Thinqat1985731/myblog/pull/81) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Merge : PR [#83](https://github.com/Thinqat1985731/myblog/pull/83) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Merge : PR [#79](https://github.com/Thinqat1985731/myblog/pull/79) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Merge : PR [#84](https://github.com/Thinqat1985731/myblog/pull/84) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
