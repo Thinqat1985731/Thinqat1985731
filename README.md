@@ -151,11 +151,11 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Activities (Public Repository)</h2>
 
 <!--RECENT_ACTIVITY:start-->
+- Merge : PR [#100](https://github.com/Thinqat1985731/myblog/pull/100) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Close : PR [#102](https://github.com/Thinqat1985731/myblog/pull/102) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Close : PR [#101](https://github.com/Thinqat1985731/myblog/pull/101) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Close : PR [#98](https://github.com/Thinqat1985731/myblog/pull/98) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Close : PR [#99](https://github.com/Thinqat1985731/myblog/pull/99) in [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Push : 2 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
