@@ -154,8 +154,8 @@
 - Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
+- Push : 1 commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 - Push : 232 commit(s) to [Thinqat1985731/myblog-nextjs](https://github.com/Thinqat1985731/myblog-nextjs)<br>
-- Push : 51 commit(s) to [Thinqat1985731/myblog-nextjs](https://github.com/Thinqat1985731/myblog-nextjs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
