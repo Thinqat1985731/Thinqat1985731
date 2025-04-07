@@ -18,7 +18,7 @@
   </picture>
   <br>
   <i>
-      A certain university student (B4)<br>
+      A certain graduate student (M1)<br>
       My account name is pronounced like "shinquat".<br>
   </i>
   <br>
