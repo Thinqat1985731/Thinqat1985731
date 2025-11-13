@@ -1,7 +1,7 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /></h1>
 
 <div align="center">
-  <img src="./images/_68106c07-2baa-43fd-bff9-4cad1716413b___.jpg" alt="Picture" height="250px"/>
+  <img src="./images/20251114_024859.png" alt="Picture">
   <br>
   <picture>
     <source
@@ -151,7 +151,6 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Latest Activities (Public Repository)</h2>
 
 <!--RECENT_ACTIVITY:start-->
-- Push : undefined commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
