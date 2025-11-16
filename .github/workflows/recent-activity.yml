@@ -1,7 +1,6 @@
 name: Recent Activity
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
