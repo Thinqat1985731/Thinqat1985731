@@ -1,6 +1,10 @@
 settings:
   commit_msg: "update: readme.md by recent activity"
   url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+09:00"
+    text: "Last Updated: {DATE}"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   line_prefix: "- "
   disabled_events: [star]
 
