@@ -25,14 +25,14 @@
   <a href="https://github.com/Thinqat1985731" target="_blank">
   <picture>
     <source
-      srcset="https://img.shields.io/badge/GitHub-444444.svg?style=for-the-badge&logo=github"
+      srcset="https://img.shields.io/badge/GitHub-444444.svg?style=for-the-badge&logo=github&logoColor=white"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://img.shields.io/badge/GitHub-eceff4.svg?style=for-the-badge&logo=github"
+      srcset="https://img.shields.io/badge/GitHub-eceff4.svg?style=for-the-badge&logo=github&logoColor=black"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://img.shields.io/badge/-Github-444444.svg?style=for-the-badge&logo=github" alt="Github"/>
+    <img src="https://img.shields.io/badge/GitHub-eceff4.svg?style=for-the-badge&logo=github&logoColor=black" alt="Github"/>
   </picture>
   </a>
   <a href="https://huggingface.co/Thinqat1985731" target="_blank">
@@ -42,37 +42,37 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Hugging_Face-eceff4.svg?style=for-the-badge&logo=huggingface&logoColor=white"
+        srcset="https://img.shields.io/badge/Hugging_Face-eceff4.svg?style=for-the-badge&logo=huggingface&logoColor=black"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-eceff4.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
     </picture>
   </a>
   <a href="https://suno.com/@Karuashi2044186" target="_blank">
     <picture>
       <source
-        srcset="https://img.shields.io/badge/Suno-444444.svg?style=for-the-badge&logo=suno"
+        srcset="https://img.shields.io/badge/Suno-444444.svg?style=for-the-badge&logo=suno&logoColor=white"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Suno-eceff4.svg?style=for-the-badge&logo=suno"
+        srcset="https://img.shields.io/badge/Suno-eceff4.svg?style=for-the-badge&logo=suno&logoColor=black"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://img.shields.io/badge/Suno-444444.svg?style=for-the-badge&logo=suno" alt="Suno"/>
+      <img src="https://img.shields.io/badge/Suno-eceff4.svg?style=for-the-badge&logo=suno&logoColor=black" alt="Suno"/>
     </picture>
   </a>
   </a>
   <a href="https://thinqat1985731.github.io/myblog/" target="_blank">
     <picture>
       <source
-        srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll"
+        srcset="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll&logoColor=white"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Myblog-eceff4.svg?style=for-the-badge&logo=jekyll"
+        srcset="https://img.shields.io/badge/Myblog-eceff4.svg?style=for-the-badge&logo=jekyll&logoColor=black"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll" alt="Myblog"/>
+      <img src="https://img.shields.io/badge/Myblog-eceff4.svg?style=for-the-badge&logo=jekyll&logoColor=black" alt="Myblog"/>
     </picture>
   </a>
 </div>
