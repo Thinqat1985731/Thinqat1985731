@@ -1,7 +1,7 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /></h1>
 
 <div align="center">
-  <img src="./images/20251114_024859.png" alt="Picture">
+  <img src="./images/20251114_024859_.png" alt="Picture">
   <br>
   <picture>
     <source
@@ -47,6 +47,20 @@
       />
       <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
     </picture>
+  </a>
+  <a href="https://suno.com/@Karuashi2044186" target="_blank">
+    <picture>
+      <source
+        srcset="https://img.shields.io/badge/Suno-444444.svg?style=for-the-badge&logo=suno"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://img.shields.io/badge/Suno-000000.svg?style=for-the-badge&logo=suno"
+        media="(prefers-color-scheme: light)"
+      />
+      <img src="https://img.shields.io/badge/Suno-444444.svg?style=for-the-badge&logo=suno" alt="Suno"/>
+    </picture>
+  </a>
   </a>
   <a href="https://thinqat1985731.github.io/myblog/" target="_blank">
     <picture>
