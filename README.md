@@ -29,7 +29,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github"
+      srcset="https://img.shields.io/badge/GitHub-eceff4.svg?style=for-the-badge&logo=github"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://img.shields.io/badge/-Github-444444.svg?style=for-the-badge&logo=github" alt="Github"/>
@@ -42,7 +42,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Hugging_Face-000000.svg?style=for-the-badge&logo=huggingface&logoColor=white"
+        srcset="https://img.shields.io/badge/Hugging_Face-eceff4.svg?style=for-the-badge&logo=huggingface&logoColor=white"
         media="(prefers-color-scheme: light)"
       />
       <img src="https://img.shields.io/badge/Hugging_Face-444444.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
@@ -55,7 +55,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Suno-000000.svg?style=for-the-badge&logo=suno"
+        srcset="https://img.shields.io/badge/Suno-eceff4.svg?style=for-the-badge&logo=suno"
         media="(prefers-color-scheme: light)"
       />
       <img src="https://img.shields.io/badge/Suno-444444.svg?style=for-the-badge&logo=suno" alt="Suno"/>
@@ -69,7 +69,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Myblog-000000.svg?style=for-the-badge&logo=jekyll"
+        srcset="https://img.shields.io/badge/Myblog-eceff4.svg?style=for-the-badge&logo=jekyll"
         media="(prefers-color-scheme: light)"
       />
       <img src="https://img.shields.io/badge/Myblog-444444.svg?style=for-the-badge&logo=jekyll" alt="Myblog"/>
