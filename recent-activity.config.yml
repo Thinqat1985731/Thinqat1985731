@@ -6,7 +6,7 @@ settings:
 
 messages:
   comments: "Comment : {ID} in {REPO}"
-  push: "Push : {AMOUNT} commit(s) to {REPO}"
+  push: "Push : commit(s) to {REPO}"
   issue_opened: "Open : issue {ID} in {REPO}"
   issue_closed: "Close : issue {ID} in {REPO}"
   pr_opened: "Open : PR {ID} in {REPO}"
@@ -17,6 +17,6 @@ messages:
   wiki_create: "Create : new wiki page {WIKI} in {REPO}"
   added_member: "Became collaborator : {REPO}"
   changes_approved: "Approve : {ID} in {REPO}"
-  changes_requested: "Requeste changes : {ID} in {REPO}"
+  changes_requested: "Request changes : {ID} in {REPO}"
   new_release: "Release : {ID} in {REPO}"
   new_star: "Star : {REPO}"
