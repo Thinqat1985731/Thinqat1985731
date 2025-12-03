@@ -19,7 +19,7 @@
   <br>
   <i>
       A certain graduate student (M1)<br>
-      My account name is pronounced [θɪŋkʌt]".<br>
+      My account name is pronounced [θɪŋkʌt].<br>
   </i>
   <br>
   <a href="https://github.com/Thinqat1985731" target="_blank">
