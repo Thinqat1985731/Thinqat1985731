@@ -5,12 +5,12 @@ settings:
     timezone: "GMT+09:00"
     text: "Last Updated: {DATE}"
     format: "`dddd. mmmm dS, yyyy, h:MM:ss TT"
-  line_prefix: "- "
+  line_prefix: "{NUM}. "
   disabled_events: [star]
 
 messages:
   comments: "Comment : {ID} in {REPO}"
-  push: "Push : commits in {REPO}"
+  push: "Push : commit(s) to {REPO}"
   issue_opened: "Open : issue {ID} in {REPO}"
   issue_closed: "Close : issue {ID} in {REPO}"
   pr_opened: "Open : PR {ID} in {REPO}"
