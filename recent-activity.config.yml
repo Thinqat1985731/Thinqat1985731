@@ -4,8 +4,8 @@ settings:
   date:
     timezone: "GMT+09:00"
     text: "Last Updated: {DATE}"
-    format: "`[m/d h:MM TT]`"
-  line_prefix: "{DATE}"
+    format: "`dddd. mmmm dS, yyyy, h:MM:ss TT"
+  line_prefix: "- "
   disabled_events: [star]
 
 messages:
@@ -22,5 +22,5 @@ messages:
   added_member: "Became collaborator : {REPO}"
   changes_approved: "Approve : {ID} in {REPO}"
   changes_requested: "Request changes : {ID} in {REPO}"
-  new_release: "Release {ID} in {REPO}"
-  new_star: "Star {REPO}"
+  new_release: "Release : {ID} in {REPO}"
+  new_star: "Star : {REPO}"
