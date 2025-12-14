@@ -172,13 +172,6 @@
 - Push : commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
-<p align="right"><sub>
-  （
-  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 15th, 2025, 12:51:15 AM
-  <!--RECENT_ACTIVITY:last_update_end-->
-  ）<br>
-
 <div align="right">
   <sub>
   Powered by <a href="https://github.com/Readme-Workflows/recent-activity?tab=readme-ov-file">Recent Activity</a>
