@@ -180,7 +180,8 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="25" height="25" /> Latest Blog Posts
 </h2>
 
-Under Construction...
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
   <sub>
