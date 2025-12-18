@@ -181,6 +181,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sphinxにおける数式のテスト](https://thinqat1985731.github.io/myblog/posts/katex-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
