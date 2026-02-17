@@ -166,10 +166,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 - Push : commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Push : commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Push : commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Push : commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
-- Push : commit(s) to [Thinqat1985731/myblog](https://github.com/Thinqat1985731/myblog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="right">
