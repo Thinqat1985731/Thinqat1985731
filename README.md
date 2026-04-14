@@ -18,7 +18,7 @@
   </picture>
   <br>
   <i>
-      A certain graduate student (M1)<br>
+      A certain graduate student (M2)<br>
       My account name is pronounced [θɪŋkʌt].<br>
   </i>
   <br>
